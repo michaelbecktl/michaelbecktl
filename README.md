@@ -30,7 +30,7 @@ Throughout my culinary career, I've recognized my natural aptitude for problem-s
 
 If you’d like to collaborate or chat about code, feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/michaelbecktl/)
+- [LinkedIn](https://www.linkedin.com/in/michaelbecktl/)
 - [Personal Website](https://michael.beck.nz/)
 
 
