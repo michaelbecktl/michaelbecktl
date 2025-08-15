@@ -16,13 +16,13 @@ Throughout my culinary career, I've recognized my natural aptitude for problem-s
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** TypeScript, JavaScript
+- **Languages:** TypeScript, JavaScript, C#
 - **Front-End:** React.js, React Three Fiber, Three.js, HTML5
 - **Back-End:** Node.js, Express, Knex.js, PostgreSQL, SQLite3
 - **Styling:** Tailwind, SCSS, Motion, Material UI, CSS3
 - **Tools:** Github, RESTful API, Vite, Vitest, Auth0
 - **Strengths:** Team leadership, project management, creative problem-solving, adaptability
-- **Learning:** C#, React Native, Expo, AWS
+- **Learning:** React Native, Expo, .NET, Docker, AWS
 
 ---
 
